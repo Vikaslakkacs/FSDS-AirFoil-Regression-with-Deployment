@@ -3,7 +3,6 @@ gunicorn
 jinja2
 werkzeug
 sklearn
-pickle
 numpy
 pandas
 scikit-learn
