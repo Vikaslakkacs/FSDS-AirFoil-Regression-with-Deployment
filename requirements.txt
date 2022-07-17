@@ -7,4 +7,4 @@ numpy
 pandas
 scikit-learn
 matplotlib
-fask_cors
+flask_cors
